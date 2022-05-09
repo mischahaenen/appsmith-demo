@@ -1,9 +1,21 @@
 {
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 4,
+  "pageOrder": [
+    "Food Delivery",
+    "404"
+  ],
+  "publishedPageOrder": [
+    "Food Delivery",
+    "404"
+  ],
   "publishedDefaultPageName": "Food Delivery",
   "unpublishedDefaultPageName": "Food Delivery",
   "invisibleActionFields": {
+    "Food Delivery_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "Food Delivery_Create_Customer": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
